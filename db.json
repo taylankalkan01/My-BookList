@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "title": "Tutunamayanlar",
+      "author": "Oğuz Atay",
+      "language": "Turkish",
+      "id": 1
+    },
+    {
+      "title": "The Metamorphosis",
+      "author": "Franz Kafka",
+      "language": "German",
+      "id": 2
+    },
+    {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "language": "Russian",
+      "id": 3
+    },
+    {
+      "title": "Nineteen Eighty-Four",
+      "author": "George Orwell",
+      "language": "English",
+      "id": 4
+    }
+  ]
+}
